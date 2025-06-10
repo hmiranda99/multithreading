@@ -28,8 +28,8 @@ Este projeto implementa uma solução em Go que utiliza multithreading para busc
 
 2. 📥 Clone este repositório:
 ```bash
-git clone [URL_DO_REPOSITÓRIO]
-cd [NOME_DO_DIRETÓRIO]
+git clone https://github.com/hmiranda99/multithreading.git
+cd multithreading
 ```
 
 3. ▶️ Execute o programa passando um CEP como argumento:
